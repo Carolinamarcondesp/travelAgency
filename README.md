@@ -5,6 +5,7 @@ ATEC Travel Management Java program, describes the structure of a travel agency 
 O programa em java da ATEC Travel Management, descreve a estrutura de um sistema de agência de viagens, as classes do sistema, os seus atributos, os seus métodos e as relações entre objetos. As principais classes do Atec Travel Management são Agencia, Idiomas, Cliente, AtraçãoTuristica, Hotel, e Restaurante.
 
 
+![N|Solid](https://i.imgur.com/4CFqljM.png)
 
 ### Classes da ATEC Travel Management
 
